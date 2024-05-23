@@ -27,3 +27,7 @@ Olá! Meu nome é **Laryssa Esper Pereira** e sou apaixonada por programação. 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=laryssaesper&show_icons=true&theme=transparent" alt="Laryssa's GitHub Stats">
 </div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryssaesper&layout=compact&theme=transparent">
+</div>
