@@ -1,6 +1,6 @@
 # Laryssa Esper Pereira
 
-Olá! Meu nome é **Laryssa Esper Pereira** e sou apaixonada por programação. Estudo de forma contínua e estou sempre preparada para aprender novas tecnologias e habilidades.
+Olá!
 
 ### ✦ Skills
 
